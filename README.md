@@ -28,6 +28,8 @@
 
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=megha9354&show_icons=true&locale=en" alt="MeghaRawat" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=megha9354&show_icons=true&locale=en&theme=react&hide_border=true&bg_color=0D1117" alt="MeghaRawat" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=megha9354&" alt="MeghaRawat" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=megha9354&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0" alt="MeghaRawat" /></p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=megha9354&&show_icons=true&locale=en&layout=compact&theme=react&hide_border=true&bg_color=0D1117" alt="MeghaRawat" /></p>
