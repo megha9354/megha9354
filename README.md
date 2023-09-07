@@ -21,7 +21,7 @@ Knowledge of NodeJs. Adept at learning, unlearning, and relearning.
 - 💬 Ask me about **Html, CSS, Java, JavaScript, React**
 
 - 📫 How to reach me **rawatmegha9354@gmail.com**
-- Portfolio Link **[https://megha9354.github.io](https://megha-rawat.netlify.app/)**
+- Portfolio Link **https://megha-rawat.netlify.app/**
 
 - ⚡ Fun fact **I think I am Funny**
 
