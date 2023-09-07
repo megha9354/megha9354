@@ -10,8 +10,8 @@ I'm an Ambitious & Intuitive Frontend Developer with hands-on
 experience in designing, developing, and implementing
 applications and solutions using JavaScript, ReactJs & also
 Knowledge of NodeJs. Adept at learning, unlearning, and relearning.
-<br/>
 
+<br/>
 
 ## 🙋‍♂️ About Me
   <img align="right"   width="400" src="https://img.freepik.com/free-vector/programmer-working-with-php_52683-22998.jpg?size=626&ext=jpg" alt="coding"  />
