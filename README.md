@@ -1,7 +1,17 @@
-<!--- <img align= "right"  width="970" height="330" src="https://www.elegantthemes.com/blog/wp-content/uploads/2017/07/programming-languages-to-learn-for-wordpress-featured-image.png" alt="coding"  /> --->
+<!--- <img align= "right"  width="970" height="330" src="https://www.elegantthemes.com/blog/wp-content/uploads/2017/07/programming-languages-to-learn-for-wordpress-featured-image.png" alt="coding"  /> 
+
 
 <h1 align="center" >Hi 👋, I'm Megha Rawat</h1>
 <h3 align="center">A passionate Full Stack Web Developer from India</h3>
+--->
+
+## Hi 👋, I'm  Megha Rawat ,
+I'm an Ambitious & Intuitive Frontend Developer with hands-on
+experience in designing, developing, and implementing
+applications and solutions using JavaScript, ReactJs & also
+Knowledge of NodeJs. Adept at learning, unlearning, and relearning.
+
+
   <img align="right"   width="400" src="https://img.freepik.com/free-vector/programmer-working-with-php_52683-22998.jpg?size=626&ext=jpg" alt="coding"  />
 
 - 🌱 I’m currently learning **Full Stack web Developing at Masai School**
